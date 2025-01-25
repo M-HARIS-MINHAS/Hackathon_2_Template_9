@@ -13,7 +13,7 @@ import { BsCupHot } from "react-icons/bs"
 import person from '/public/images/Person.png'
 import stud from '/public/images/Student.png'
 import trans from '/public/images/yellowTrans.png'
-import mark from '/public/images/mark.png'
+import Mark from '/public/images/Mark.png'
 import round from '/public/images/homeSec7.png'
 import numb from '/public/images/Quotes.png'
 import stars from '/public/images/star.png'
@@ -219,22 +219,22 @@ import Footer from '@/components/Footer';
 
         <div className="cards flex absolute top-[2667px] left-[300px] z-30 gap-5">
           <div className="card-one w-[312px] h-[398px] flex flex-col text-center bg-white shadow">
-            <Image src={mark} alt='card one' className='w-[312px] h-[320px]' />
+            <Image src={Mark} alt='card one' className='w-[312px] h-[320px]' />
             <h2 className='font-semibold text-xl mt-4'>Mark Henry</h2>
             <p>Owner</p>
           </div>
           <div className="card-two w-[312px] h-[398px] flex flex-col text-center bg-white shadow">
-            <Image src={mark} alt='card two' className='w-[312px] h-[320px]' />
+            <Image src={Mark} alt='card two' className='w-[312px] h-[320px]' />
             <h2 className='font-semibold text-xl mt-4'>Lucky Helen</h2>
             <p>Chef</p>
           </div>
           <div className="card-three w-[312px] h-[398px] flex flex-col text-center bg-white shadow">
-            <Image src={mark} alt='card three' className='w-[312px] h-[320px]' />
+            <Image src={Mark} alt='card three' className='w-[312px] h-[320px]' />
             <h2 className='font-semibold text-xl mt-4'>Moon Henry</h2>
             <p>Founder</p>
           </div>
           <div className="card-four w-[312px] h-[398px] flex flex-col text-center bg-white shadow">
-            <Image src={mark} alt='card four' className='w-[312px] h-[320px]' />
+            <Image src={Mark} alt='card four' className='w-[312px] h-[320px]' />
             <h2 className='font-semibold text-xl mt-4'>Tom Morrow</h2>
             <p>Specialist</p>
           </div>
